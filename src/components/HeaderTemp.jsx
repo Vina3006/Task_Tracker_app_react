@@ -1,4 +1,4 @@
-function header() {
+function HeaderTemp() {
   return (
     <header className="mb-8 text-center">
 
@@ -19,4 +19,4 @@ function header() {
   );
 }
 
-export default header;
+export default HeaderTemp;
