@@ -1,6 +1,6 @@
 import { useEffect, useState } from "react";
 
-import Header from "./components/header";
+import header from "./components/header";
 import TaskForm from "./components/TaskForm";
 import TaskStats from "./components/TaskStats";
 import TaskFilters from "./components/TaskFilters";
