@@ -1,4 +1,4 @@
-function Header() {
+function header() {
   return (
     <header className="mb-8 text-center">
 
