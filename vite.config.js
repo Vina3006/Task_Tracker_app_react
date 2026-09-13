@@ -3,6 +3,7 @@ import react from "@vitejs/plugin-react";
 import tailwindcss from "@tailwindcss/vite";
 
 export default defineConfig({
-  plugins: [react(), tailwindcss()],
-  base: "Task_Tracker_app_react"
+  base: "/Task_Tracker_app_react/",
+  plugins: [react(), tailwindcss()]
+
 });
