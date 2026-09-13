@@ -19,4 +19,4 @@ function header() {
   );
 }
 
-export default Header;
+export default header;
